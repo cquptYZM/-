@@ -46,16 +46,12 @@ title可加可不加
 关羽|打|二哥
 张飞|骂|三弟
 
-(```)
+```
   代码...
   代码...
   代码...
-(```)
+```
 `create database hero;`
-function fun(){
-  echo "这是一句非常牛逼的代码";
-}
-fun();
 
 ```flow
 st=>start: 开始
